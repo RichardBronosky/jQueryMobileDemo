@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"> 
 	<title>jQuery Mobile Docs - Sample form response</title> 
 	<link rel="stylesheet"  href="../../themes/default/index.css" />  
-	<link rel="stylesheet" href="../_assets/css/jqm-docs.css"/>
+	<link rel="stylesheet" href="../assets/css/jqm-docs.css"/>
 	<script type="text/javascript" src="../../js/jquery.js"></script>
 	<script type="text/javascript" src="../../js/index.js"></script>
 </head> 
@@ -15,7 +15,7 @@
 
 	<div data-role="header" data-theme="e">
 		<h1>Sample form response</h1>
-		<a href="../../" data-icon="home" data-iconpos="notext" data-direction="reverse" class="ui-btn-right jqm-home">Home</a>
+		<a href="../../index.html" data-icon="home" data-iconpos="notext" data-direction="reverse" class="ui-btn-right jqm-home">Home</a>
 	</div><!-- /header -->
 
 	<div data-role="content" data-theme="c">
