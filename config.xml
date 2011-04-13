@@ -4,7 +4,7 @@
 	id		= "com.bronosky.mobile.jqmdemo"
 	version 	= "1.0.0">
 
-	<name>jQuery UI Mobile Framework - Demonstration</name>
+	<name>jQuery Mobile Demo</name>
 
 	<description>
 		The jQuery UI Mobile Framework Demonstration in a PhoneGap application
